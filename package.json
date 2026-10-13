@@ -1,0 +1,12 @@
+{
+  "name": "manager-library-tool",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Demo-data seeder for Manager Library (goes through the API)",
+  "scripts": {
+    "seed": "node seed.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
